@@ -1,2 +1,2 @@
 # bloc-jams-jquery
-A project to practice refactoring an existing code base using jQuery. The goal is to make a finished app that will be a fully functional music player. It will display album information, list the songs for an album, and include standard music controls for playing, pausing, skipping forward/backward, and adjusting the volume.
+This is a project to make a simple music player during the Bloc program. Bloc provided most of the code, and I added to the JavaScript and jQuery for practice. The goal was to make a finished app that will be a fully functional music player. To display album information, list the songs for an album, and include standard music controls for playing, pausing, skipping forward/backward, and adjusting the volume. 
